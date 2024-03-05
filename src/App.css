@@ -1,0 +1,37 @@
+@media only screen and (max-width: 1020px) {
+  header {
+    text-align: center;
+  }
+  /* main {
+    font-size: 18px;
+  } */
+  footer {
+    text-align: center;
+  }
+  .grid{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+  }
+}
+
+@media only screen and (max-width: 2560px) {
+  header {
+    text-align: center;
+  }
+  /* main {
+    font-size: 18px;
+  } */
+  footer {
+    text-align: center;
+  }
+  .grid{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+  }
+}
+.dark{
+  background: black;
+  color: white;
+}

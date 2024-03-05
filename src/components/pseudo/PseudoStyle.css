@@ -1,0 +1,16 @@
+.box{
+    height:"50px"; 
+    width:"100px"; 
+    color: "blue"; 
+    font-size: "23px" 
+}
+.box:hover{
+    background-color: yellow;
+}
+
+p::first-letter{
+   color : red;
+}
+p::first-line{
+    color: aqua;
+}
